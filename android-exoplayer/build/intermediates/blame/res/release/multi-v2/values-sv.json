@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-video/android-exoplayer/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/30dacc80db1c319f9144c73cd1ff974b/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,267,362,460,568,675,782,886,991,1094",
+                        "endColumns": "112,98,94,97,107,106,106,103,104,102,93",
+                        "endOffsets": "163,262,357,455,563,670,777,881,986,1089,1183"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/30dacc80db1c319f9144c73cd1ff974b/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,267,362,460,568,675,782,886,991,1094",
+                        "endColumns": "112,98,94,97,107,106,106,103,104,102,93",
+                        "endOffsets": "163,262,357,455,563,670,777,881,986,1089,1183"
+                    }
+                }
+            ]
+        }
+    ]
+}

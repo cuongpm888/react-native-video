@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-video/android-exoplayer/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/30dacc80db1c319f9144c73cd1ff974b/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,249,341,432,530,631,731,833,926,1022",
+                        "endColumns": "99,93,91,90,97,100,99,101,92,95,89",
+                        "endOffsets": "150,244,336,427,525,626,726,828,921,1017,1107"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/30dacc80db1c319f9144c73cd1ff974b/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,249,341,432,530,631,731,833,926,1022",
+                        "endColumns": "99,93,91,90,97,100,99,101,92,95,89",
+                        "endOffsets": "150,244,336,427,525,626,726,828,921,1017,1107"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/values-mk-rMK/values-mk-rMK.xml",
+            "map": [
+                {
+                    "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/30dacc80db1c319f9144c73cd1ff974b/res/values-mk-rMK/values-mk-rMK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,216,283,349,429,511,601,680,757,837",
+                        "endColumns": "87,72,66,65,79,81,89,78,76,79,65",
+                        "endOffsets": "138,211,278,344,424,506,596,675,752,832,898"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-video/android-exoplayer/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
+            "map": [
+                {
+                    "source": "/Users/cuongpm/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/30dacc80db1c319f9144c73cd1ff974b/res/values-mk-rMK/values-mk-rMK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,216,283,349,429,511,601,680,757,837",
+                        "endColumns": "87,72,66,65,79,81,89,78,76,79,65",
+                        "endOffsets": "138,211,278,344,424,506,596,675,752,832,898"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-video/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "/Volumes/Data/VMOBI/Xem Phim/Film/node_modules/react-native-video/android/build/intermediates/res/merged/release/values/values.xml",
+            "map": []
+        }
+    ]
+}
